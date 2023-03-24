@@ -13,3 +13,8 @@ KeyPad (PC Companion Program)
 
 To see if it works:
 Try tapping on your phone, you should see the small window on the Companion Program flash Black/White accordingly.
+
+# LICENSES
+
+Ketai (for getting IP Address): https://github.com/ketai/ketai/blob/master/LICENSE.txt  
+websockets (for communication to/from PC): https://github.com/alexandrainst/processing_websockets/blob/master/LICENSE
