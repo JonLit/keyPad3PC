@@ -6,7 +6,8 @@ KeyPad (PC Companion Program)
 1. Install APK on Android Phone (https://github.com/jonlit/keypad3)
 2. Install Companion Program on PC
 3. Install ADB (HAS to be in PATH *)
-4. Connect Phone with USB Cable
+4. (Install Java, already included in Linux build, NOT included in Windows build) 
+5. Connect Phone with USB Cable
 6. Start App on Phone
 7. Start Companion Program on PC
 
